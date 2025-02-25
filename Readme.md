@@ -3,6 +3,16 @@
 ## Overview
 This lab implements face detection and clustering using distance-based classification methods. The implementation uses OpenCV's haar cascade classifier for face detection and K-means clustering
 
+Image logging metrics detected on w&b
+![image](https://github.com/user-attachments/assets/24cc12ce-8ccd-4db2-91ac-4665faab2dd4)
+
+Showing Plotted Images on w&b
+![image](https://github.com/user-attachments/assets/feb29336-2e75-4cd7-99dd-272d7dbc5658)
+
+Showing Table on w&b
+![image](https://github.com/user-attachments/assets/18b5c3bb-c619-489e-a107-e78de70e70ce)
+
+
 ## Uses
 - Face detection using Haar Cascade Classifier
 - K-means clustering (k=2) for face classification
