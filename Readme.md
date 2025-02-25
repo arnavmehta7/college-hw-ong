@@ -12,6 +12,12 @@ Showing Plotted Images on w&b
 Showing Table on w&b
 ![image](https://github.com/user-attachments/assets/18b5c3bb-c619-489e-a107-e78de70e70ce)
 
+Clustering Example
+![image](https://github.com/user-attachments/assets/2762c71f-2d8a-4cd9-9c53-ba811ad08b62)
+
+For Sashi Tharoor
+<img width="429" alt="Screenshot 2025-02-26 at 3 13 52 AM" src="https://github.com/user-attachments/assets/f4d5e348-3181-49f6-8572-ffa491d2d926" />
+
 
 ## Uses
 - Face detection using Haar Cascade Classifier
