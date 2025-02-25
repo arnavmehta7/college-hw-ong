@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('./plaksha_Faculty.jpg')
+img = cv2.imread('./Plaksha_Faculty.jpg')
 img2 = cv2.imread('./Dr_Shashi_Tharoor.jpg')
 
 assert img is not None, "Image 1 is not loaded"
